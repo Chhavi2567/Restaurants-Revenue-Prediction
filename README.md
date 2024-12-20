@@ -7,7 +7,7 @@ This project focuses on predicting restaurant revenue using machine learning tec
 ## 📂 Dataset
 
 The dataset used for this project is sourced from Kaggle:  
-**Restaurant Revenue Prediction Dataset**
+[https://www.kaggle.com/datasets/anthonytherrien/restaurant-revenue-prediction-dataset]
 
 ### 📜 Description
 
