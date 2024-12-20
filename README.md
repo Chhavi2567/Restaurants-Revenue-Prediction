@@ -4,15 +4,6 @@
 
 This project focuses on predicting restaurant revenue using machine learning techniques. By leveraging exploratory data analysis (EDA) and regression modeling, we aim to provide actionable insights for strategic decision-making and improve the ability to forecast revenue effectively.
 
-## 🛠️ Tools & Libraries Used
-
-- 📊 **Pandas**: Data manipulation and analysis
-- 🔢 **Numpy**: Numerical computations
-- 📈 **Matplotlib**: Data visualization
-- 📉 **Seaborn**: Statistical data visualization
-- 🤖 **Scikit-learn (Sklearn)**: Machine learning modeling and evaluation
-- 🖊️ **Jupyter Notebook**: Interactive development environment
-
 ## 📂 Dataset
 
 The dataset used for this project is sourced from Kaggle:  
@@ -62,18 +53,3 @@ This dataset contains information about various restaurants and aims to predict 
 - Developed an optimized revenue prediction model with high accuracy.
 - Derived actionable insights for strategic planning in the restaurant industry.
 - Improved forecasting capabilities to assist in resource allocation and growth strategies.
-
-## 🛠️ Getting Started
-
-### 🔑 Prerequisites
-
-Ensure you have the following installed:
-- Python 3.8+
-- Jupyter Notebook
-- Libraries: Pandas, Numpy, Matplotlib, Seaborn, Sklearn
-
-### 💻 Installation
-
-Clone this repository:
-```bash
-git clone https://github.com/yourusername/restaurant-revenue-prediction.git
